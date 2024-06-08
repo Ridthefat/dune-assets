@@ -13,7 +13,7 @@ type Story = StoryObj<typeof meta>;
 
 export const Atreides: Story = {
   args: {
-    name: 'Atreides',
+    name: 'Brodies Mom',
     logo: '/generated/token/faction/atreides.jpg',
     start: '10 troops in Arrakeen and 10 in reserve *(off planet)*. Start with 10 spice.',
     revival: '2 troop free.',
